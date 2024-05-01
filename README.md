@@ -1,4 +1,5 @@
 elo 320 <br>
-gram w gry
-robie gre
-emr, what the sigma
+gram w gry <br>
+robie gre <br>
+emr, what the sigma <br>
+🗿
